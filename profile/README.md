@@ -4,7 +4,7 @@ Open-source [Quarto](https://quarto.org) extensions and materials built for the 
 
 ## About the project
 
-CTM is an Erasmus+ KA220-HED partnership that works to bring computational thinking and programming into tertiary-level mathematics education. It develops Python tutorials for mathematical applications, group projects that showcase real-world uses of mathematics, and open-access educational resources, alongside "IndustryMeetsMath" events that connect students with industry applications — all while promoting inclusivity and gender balance in STEM. See the [project description](https://ctm.pages.compute.dtu.dk/ctmweb/description/index.html) for more.
+CTM is an Erasmus+ KA220-HED partnership that works to bring computational thinking and programming into tertiary-level mathematics education. It develops Python tutorials for mathematical applications, group projects that showcase real-world uses of mathematics, and open-access educational resources, alongside "IndustryMeetsMath" events that connect students with industry applications — all while promoting inclusivity and gender balance in STEM.
 
 ## Extensions
 
@@ -17,7 +17,6 @@ CTM is an Erasmus+ KA220-HED partnership that works to bring computational think
 
 - **Client-side only** — no backend, no student data leaves the browser.
 - **Multilingual UI** — English and German at minimum, several extensions support more.
-- **Optional AI feedback** — works with any OpenAI-compatible API (OpenRouter, Cerebras, Groq, OpenAI, Ollama, …), never required.
 
 ## License
 
